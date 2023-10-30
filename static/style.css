@@ -101,7 +101,9 @@ h1{
     border-radius: 10px;
 }
 
-
-
-
-
+.weekday{
+    width:20vw;
+    height:6vh;
+    border-radius:4px;
+    resize: none;
+}
